@@ -21,7 +21,7 @@ The grids accompany the analysis:
 * **Collaboration:** HAPS Collaboration
 * **arXiv:** https://arxiv.org/abs/2606.16754
 * **INSPIRE:** https://inspirehep.net/literature/3168717
-* **DOI:**
+* **DOI:** https://doi.org/10.1103/tw9g-7q7x
 * **LHAPDF grids:** https://github.com/HAPS-Collaboration/HAPS-PiFF1.0
 
 ## Physics scope
